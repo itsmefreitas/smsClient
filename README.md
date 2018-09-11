@@ -15,7 +15,7 @@ make all
 
 (where [username] is the desired username you’ll assign to the new user being created)
 
-- Initialize the server with:
+- Initialize the server:
 ```
 ./SMSServer
 ```
