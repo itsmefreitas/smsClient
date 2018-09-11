@@ -19,7 +19,7 @@ chmod +x SMSServer.sh
 chmod +x SMSClient.sh
 ```
 
-Creation of new users on the system is performed by running the command:
+- Creation of new users on the system is performed by running the command:
 ```
 ./SMSServer.sh adduser [username]
 ```
